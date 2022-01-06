@@ -1,4 +1,4 @@
-# AWS - Lambda function to insert data into Oracle database. Data will be passed through API GW payload.
+# AWS - Lambda function "UserInfo" to insert data into AWS RDS Oracle database.
 This project contains source code and supporting files for a python based Amazon lambda function to insert data
 into Oracle database. API GW endpoint is created to allow user to send data in payload request. 
 
