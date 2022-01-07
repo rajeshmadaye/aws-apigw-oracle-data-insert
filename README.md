@@ -23,7 +23,7 @@ Sample Payload Request JSON:
 
 ## Tech
 Below are list of technologies used.
-- [Python] - Python script is written to create AMI snapshot manager application.
+- [Python] - Python based lambda function.
 - [boto3] - Python boto3 SDK used to interact with AWS services.
 - [cx_Oracle] - Library used to interact with Oracle database.
 
